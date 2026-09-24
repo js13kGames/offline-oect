@@ -1,4 +1,8 @@
 ---
+genres:
+  - management
+  - strategy
+  - simulation
 post: https://github.com/BenjaminWFox/offline-oect-js13k/blob/master/readme.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
